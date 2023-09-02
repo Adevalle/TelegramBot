@@ -2,7 +2,6 @@
 {
     internal class ConvertResponse
     {
-       
-        internal string result;
+               internal string result;
     }
 }
