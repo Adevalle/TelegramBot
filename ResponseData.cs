@@ -8,9 +8,6 @@ namespace TekegrammBot
 {
     internal class ResponseData
     {
-        
-
-       
             public bool valid { get; set; }
             public int updated { get; set; }
             public string @base { get; set; }
