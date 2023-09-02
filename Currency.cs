@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TekegrammBot
-{
+{ 
     internal class Currency
     {
         public string AED { get; set; }
