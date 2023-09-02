@@ -32,9 +32,7 @@ namespace TelegramBot
             Console.ReadLine();
 
         }
-        
-
-
+ 
         async private static Task Update(ITelegramBotClient botClient, Update update, CancellationToken tocken)
         {
                
